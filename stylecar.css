@@ -1,0 +1,33 @@
+h1 {
+  /*comment être certain que c'est bien centré dans le calcul et pas que a l'oeil nu?*/
+}
+
+body {
+        background-image: url("https://cdn.pixabay.com/photo/2017/08/11/19/36/vw-2632486_1280.png");
+}
+
+/* <img class="yellowcars" src="vw-2632486_1920.png" alt="VWjaune">  */
+
+
+.yellowcars {
+  opacity: 0.7;
+  height: 400px;
+  padding: 150px;
+}
+
+.location {
+  font-family: "Times New Roman", sans-serif;
+  font-weight: 100;
+  font-size: 40px;
+  color: red;
+  margin: 150px;
+  text-align: center;
+  padding: 15px
+}
+
+/* .vente {
+  padding: 15px;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 100; */
+
+}
